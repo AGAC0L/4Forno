@@ -10,14 +10,14 @@ header {
     color: #fff;
     text-align: center;
     padding: 1em 0;
-    width: 100%;
+    width: auto;
 }
 
 nav {
     background-color: #ff5733; /* Naranja */
     padding: 1.5em;
     text-align: center;
-    width: 100%;
+    width: auto;
 }
 
 nav a {
@@ -59,7 +59,7 @@ footer {
     padding: 1em 0;
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: auto;
 }
 
 img.logo{
@@ -97,7 +97,7 @@ div{
 }
 
 section{
-    width: 100%;
+    width: auto;
 }
 
 .comida{

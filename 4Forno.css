@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #1a300f; /* Verde oscuro */
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    background-color: #ff5733; /* Naranja */
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #1b4332; /* Verde oscuro */
+    padding: 0.5em 1em;
+    margin: 0 0.5em;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+section {
+    padding: 2em;
+}
+
+h2 {
+    color: #1a300f; /* Verde oscuro */
+}
+
+.menu-item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.menu-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 1em;
+}
+
+footer {
+    background-color: #1a300f; /* Verde oscuro */
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+img.logo{
+    height: 250px;
+    width: 250px;
+}
+
+div#muffins{
+    display: inline-block;
+}
+
+div#empanadas{
+    display: inline-block;
+}
+
+div#quiches{
+    display: inline-block;
+}
+
+div#pies{
+    display: inline-block;
+}
+
+div#flanes{
+    display: inline-block;
+}
+
+h2{
+    position: relative;
+}
+
+div{
+    height: 300px;
+    width: 300px;
+}
+
+section{
+    width: 100%;
+}
+
+.comida{
+    shape-image-threshold: 250px 250px;
+}

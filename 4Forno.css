@@ -29,6 +29,8 @@ nav a {
     background-color: #fff;
     display: inline-block;
     position: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 section {
@@ -59,7 +61,7 @@ footer {
     padding: 1em 0;
     position: fixed;
     bottom: 0;
-    width: auto;
+    width: 100%;
 }
 
 img.logo{

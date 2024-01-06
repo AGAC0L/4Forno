@@ -10,12 +10,14 @@ header {
     color: #fff;
     text-align: center;
     padding: 1em 0;
+    width: 100%;
 }
 
 nav {
     background-color: #ff5733; /* Naranja */
     padding: 1.5em;
     text-align: center;
+    width: 100%;
 }
 
 nav a {
